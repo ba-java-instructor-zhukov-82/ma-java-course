@@ -1,4 +1,4 @@
-package lab_works.module_I._1_2._1_2_2.lab_works.module_I._1_2;
+package lab_works.module_I._1_2._1_2_2;
 
 import java.util.Scanner;
 
